@@ -25,7 +25,8 @@ public class Removal {
 		printRemove(words, remove);
 	}
 	/**
-	 * pass the string builder 
+	 * pass the string builder and string to remove to generate and print the desired string
+	 * 
 	 * @param phrase
 	 */
 	private static void printRemove(StringBuilder phrase, String remove) {
